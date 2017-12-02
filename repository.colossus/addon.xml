@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.colossus" name="[COLOR gold]Colossus Repository[/COLOR]" version="999.999.9" provider-name="Colossal">
+<addon id="repository.colossus" name="[COLOR gold]Colossus newone Repository[/COLOR]" version="1-1.0.0" provider-name="Colossal newone">
     <extension point="xbmc.addon.repository" name="[COLOR gold]Colossus Repository[/COLOR]">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/colossus-newone/Colossus-newone-Repository/raw/master/addons.xml</info>
